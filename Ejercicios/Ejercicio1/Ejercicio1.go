@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-var a = 8
+var a = 6
 var b string = "Programa"
 
 func main() {
