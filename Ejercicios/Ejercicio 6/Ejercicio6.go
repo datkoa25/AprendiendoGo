@@ -25,7 +25,7 @@ func main() {
 	fmt.Println("")
 
 	//for funciona para crear un bucle y i es igual a iterar o en otras palabras repetir
-	//for i, para inicializar, i marcar el condicional y i++ para declarar el post, i++ = i = i+1
+	//for i, para inicializar, i marcar el condicional y i++ para declarar el post, i++ = "i = i+1"
 
 	for i := 0; i < len(s1); i++ {
 
