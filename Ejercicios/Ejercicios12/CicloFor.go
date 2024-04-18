@@ -4,8 +4,14 @@ import (
 	"fmt"
 )
 
-var x int
-
 func main() {
-	fmt.Println(x)
+
+	i := 0
+	for {
+		if i > 9 {
+			break
+		}
+		fmt.Println(i)
+		i++
+	}
 }
